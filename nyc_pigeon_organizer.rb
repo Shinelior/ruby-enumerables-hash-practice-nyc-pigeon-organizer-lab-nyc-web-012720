@@ -10,6 +10,7 @@ def nyc_pigeon_organizer(data)
     names_array.each do | name | 
    if !new_pigeon_data[name] 
      new_pigeon_data[name] = {}
+     
    end
      if  !new_pigeon_data[name][key]  
     new_pigeon_data[name][key] = []  

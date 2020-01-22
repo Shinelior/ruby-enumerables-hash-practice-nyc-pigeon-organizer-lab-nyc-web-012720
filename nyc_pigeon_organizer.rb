@@ -17,7 +17,7 @@ def nyc_pigeon_organizer(data)
     
 end
  new_pigeon_data[name][key] << new_key.to_s 
- 
+ binding.pry
  
    
  end

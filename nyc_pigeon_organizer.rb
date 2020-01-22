@@ -13,7 +13,7 @@ def nyc_pigeon_organizer(data)
       
    end
      if  !new_pigeon_data[name][key] 
-       binding.pry
+       
     new_pigeon_data[name][key] = []  
     
 end

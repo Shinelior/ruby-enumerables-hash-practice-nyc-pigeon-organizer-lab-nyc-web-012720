@@ -21,7 +21,7 @@ end
  
    
  end
- # binding.pry 
+ #filter_parameter_logging binding.pry 
   end
  end
  
